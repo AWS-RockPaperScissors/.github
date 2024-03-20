@@ -15,7 +15,7 @@
     <td>Data</td>
     <td>Data</td>
     <td>Backend</td>
-    <td>Front</td>
+    <td>Frontend</td>
   </tr>
   <tr align = "center">
     <td><a href="https://github.com/maeilej"><img src="https://avatars.githubusercontent.com/u/158597024?v=4" width=200></a></td>
