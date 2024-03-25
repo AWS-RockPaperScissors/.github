@@ -1,6 +1,4 @@
 > ### 💡 GIST AI 4 Good 해커톤 <br />
-> UN상 수상팀 RockPaperScissors
-
 
 ## SCHEDULE
 - 2024.03.23-2024.03.24
